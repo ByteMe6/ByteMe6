@@ -26,6 +26,7 @@
 
 ## Github stats
 ![folowers](https://img.shields.io/github/followers/ByteMe6.svg?style=social&label=Follow&maxAge=2592000)
-![text](https://github-readme-stats.vercel.app/api?username=ByteMe6&theme=blue-green)
 
-![most uage langds](https://github-readme-stats.vercel.app/api/top-langs/?username=ByteMe6&theme=blue-green)
+![text](https://github-readme-stats.vercel.app/api?username=ByteMe6)
+
+![most uage langds](https://github-readme-stats.vercel.app/api/top-langs/?username=ByteMe6)
