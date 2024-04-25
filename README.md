@@ -16,7 +16,7 @@
 - ![js](https://img.shields.io/badge/js-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black) 
 ![learning](https://img.shields.io/badge/learning-22ADF6?)
 - ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-- git
+- ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 - ![node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 - zsh(terminal)
 
@@ -27,7 +27,9 @@
 [![codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/qlvuhbfq-the-encoder)
 
 ## Github stats
-![folowers](https://img.shields.io/github/followers/ByteMe6.svg?style=social&label=Follow&maxAge=2592000)
+![folowers](https://img.shields.io/github/followers/ByteMe6.svg?style=social&label=Follow&maxAge=2592000) 
+![stars](https://img.shields.io/github/stars/ByteMe6)
+
 
 ![text](https://github-readme-stats.vercel.app/api?username=ByteMe6)
 
