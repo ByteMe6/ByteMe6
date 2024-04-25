@@ -5,24 +5,18 @@
 
 ## Skills
 
-<style>
+<!-- <style>
     li{
         color: red;
     }
-</style>
+</style> -->
 
-<li>
-Html
-</li>
+- html
+- css
+- scss
+- js ![learning](https://img.shields.io/badge/learning-22ADF6?)
+- github
 
-<li>Css</li>
+## Contatct me
 
-<li>
-Js
-<div style="display:inline;color:white; background-color: red; padding: 6px;border-radius:15px;background-color:rgba(78, 205, 255, 0.603);">learning</div>
-</li>
-<li>termnal <div style="display:inline;color:white; background-color: red; padding: 6px;border-radius:15px;background-color:rgba(255, 120, 120, 0.603);">zsh</div></li>
-<div style="display:flex;"> <li>github </li> <img  style="display:inline-block; align-items: center; margin-top: 3px;" src="./img/githubIcon.png" height="19px" width="19px"></div>
-<li>Node</li>
-<li>Git</li>
-
+![t.me/ByteMe6](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white/)
