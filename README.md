@@ -20,6 +20,7 @@
 - ![node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 - zsh(terminal)
 
+
 ## Contatct me
 
 [![t.me/ByteMe6](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white/)](https://t.me/byteMe6)
@@ -34,3 +35,9 @@
 ![text](https://github-readme-stats.vercel.app/api?username=ByteMe6)
 
 ![most uage langds](https://github-readme-stats.vercel.app/api/top-langs/?username=ByteMe6)
+
+## IDEs that i use
+![vscode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
+![alt text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
+![replit](https://img.shields.io/badge/replit-%23575757?style=for-the-badge&logo=replit&logoColor=orange)
