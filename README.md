@@ -16,6 +16,8 @@
 - scss
 - js ![learning](https://img.shields.io/badge/learning-22ADF6?)
 - github
+- git
+- node
 
 ## Contatct me
 
