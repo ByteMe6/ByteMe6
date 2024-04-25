@@ -24,3 +24,8 @@
 [![gmai](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tsapiy.yurka@gmail.com)
 [![codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/qlvuhbfq-the-encoder)
 
+## Github stats
+![folowers](https://img.shields.io/github/followers/ByteMe6.svg?style=social&label=Follow&maxAge=2592000)
+![text](https://github-readme-stats.vercel.app/api?username=ByteMe6&theme=blue-green)
+
+![most uage langds](https://github-readme-stats.vercel.app/api/top-langs/?username=ByteMe6&theme=blue-green)
