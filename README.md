@@ -4,6 +4,13 @@
 <a href=“https://byteme6.github.io/resume-yura” style="font-size: 30px;">Resume here</a>
 
 ## Skills
+
+<style>
+    li{
+        color: red;
+    }
+</style>
+
 <li>
 Html
 </li>
@@ -18,3 +25,4 @@ Js
 <div style="display:flex;"> <li>github </li> <img  style="display:inline-block; align-items: center; margin-top: 3px;" src="./img/githubIcon.png" height="19px" width="19px"></div>
 <li>Node</li>
 <li>Git</li>
+
