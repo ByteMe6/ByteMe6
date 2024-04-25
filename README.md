@@ -10,13 +10,15 @@
     }
 </style> -->
 
-- html
-- css
-- scss
-- js ![learning](https://img.shields.io/badge/learning-22ADF6?)
-- github
+- ![html](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white)
+- ![css](https://img.shields.io/badge/CSS-blue?&style=for-the-badge&logo=css3&logoColor=white)
+- ![scss](https://img.shields.io/badge/scss-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+- ![js](https://img.shields.io/badge/js-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black) 
+![learning](https://img.shields.io/badge/learning-22ADF6?)
+- ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 - git
-- node
+- ![node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+- zsh(terminal)
 
 ## Contatct me
 
