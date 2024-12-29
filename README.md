@@ -14,7 +14,6 @@
 - ![css](https://img.shields.io/badge/CSS-blue?&style=for-the-badge&logo=css3&logoColor=white)
 - ![scss](https://img.shields.io/badge/scss-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 - ![js](https://img.shields.io/badge/js-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black) 
-![learning](https://img.shields.io/badge/learning-22ADF6?)
 - ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 - ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 - ![node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
