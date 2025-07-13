@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  📄 <a href="https://byteme6.github.io/resume-yura" target="_blank">View My Resume</a>
+  📄 <a href="https://byteme6.github.io/resume" target="_blank">View My Resume</a>
 </p>
 
 ---
