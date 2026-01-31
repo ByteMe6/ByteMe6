@@ -18,7 +18,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="64" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="64" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="64" />
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="64" height="64"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="64" height="64"/> 
   
 </p>
 
@@ -51,8 +52,16 @@
 <summary>📊 GitHub Stats</summary>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ByteMe6&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByteMe6&layout=compact&theme=tokyonight" height="165"/>
+ 
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ByteMe6&theme=tokyonight&hide_border=true&layout=compact)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ByteMe6&theme=rogue&bg_color=ffffff#gh-light-mode-only)](https://github-readme-activity-graph.vercel.app/graph?username=Maksym-Ryaboshapka&theme=rogue&bg_color=ffffff#gh-light-mode-only)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ByteMe6&theme=vue#gh-dark-mode-only)](https://github-readme-activity-graph.vercel.app/graph?username=Maksym-Ryaboshapka&theme=vue#gh-dark-mode-only)
+
+
+
 </p>
 
 </details>
+
