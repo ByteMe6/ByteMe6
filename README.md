@@ -19,6 +19,6 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=arch,java,typescript,cpp,python,nodejs,bash,postgresql,docker,git" />
+<img src="https://skillicons.dev/icons?i=arch,typescript,cpp,python,nodejs,bash,postgresql,docker,git" />
 
 </div>
