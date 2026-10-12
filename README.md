@@ -12,7 +12,7 @@
 
 I write software at both ends of the stack: <strong>engines and tools in C++</strong> that run in a terminal, and <strong>web services in TypeScript</strong> that run in Docker. Most of what's here started as a question I couldn't answer without building the thing.
 <br><br>
-Open to interesting problems and ideas — reach me on <a href="https://t.me">Telegram</a>.
+Open to interesting problems and ideas — reach me on <a href="https://t.me/Samedy_y">Telegram</a>.
 
 Also **Zig** <img src="https://raw.githubusercontent.com/ziglang/logo/master/zig-mark.svg" width="16" style="vertical-align:center"> fan 
 
